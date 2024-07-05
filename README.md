@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Prathyumman
+- 👀 I’m interested in cricket
+- 🌱 I’m currently learning JS
+- 😄 Pronouns: he/him
